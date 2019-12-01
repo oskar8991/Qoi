@@ -1,20 +1,12 @@
 # Qoi
 Questions of Interest - HackKings 6.0
+Winner of Bloomberg Tech Stack Challenge (1st Price)
 
 Members: Oskar Ljungdell, Ivan Hristev, Alexis Dumon, Hadi Rizvi
 
 NLP Query Summarizer 
 
-BACKEND--------------
-
-Three major parts:
-1. Getting the input from a user (voice) and turning it into an efficient query
-2. Web scrapping for the results of the query
-3. Summarize text obtained from the selected webpages using spaCy
-
-FRONTEND-------------
-1. Build an application which can take input from the user
-2. Shows summary of text query in a nice format
+Awarded first price (Bloomberg Tech Stack Challenge) for our natural language processing application 'Qoi - Questions of Interest' created during HackKings 6.0 that works as a research tool and summariser. The application was written exclusively in Python3 and accepts input from a user either vocally or manually through text, and then isolates the keywords from the query, performs a google search, selects the top articles/pages returned, scrapes the pages for text ignoring unwanted information such as meta data and headers, and finally summarises all text obtained by analysing word frequency and then returns a concise paragraph answering the user's question. APIs and libraries used during this project include spaCy, pocketsphinx, pyaudio, Google search, BeautifulSoup4, lxml, requests, and TkInter. 
 
 APIs USED-------------
 - NLP input processor => spaCy
