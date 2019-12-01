@@ -56,9 +56,9 @@ class Summarizer:
 
         summary = ' '.join(final_sentences)
         print("---------")
-        print(document1)
+        print(inputText)
         print("---------")
-        print(summary)
+        #print(summary)
         return summary
 
 
