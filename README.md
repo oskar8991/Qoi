@@ -1,5 +1,6 @@
 # Qoi
 Questions of Interest - HackKings 6.0
+
 Winner of Bloomberg Tech Stack Challenge (1st Price)
 
 Members: Oskar Ljungdell, Ivan Hristev, Alexis Dumon, Hadi Rizvi
