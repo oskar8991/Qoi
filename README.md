@@ -19,3 +19,5 @@ APIs USED-------------
 - GUI => TkInter
 
 Live Demo: https://www.youtube.com/watch?v=EhLiPcKqcwA
+
+Original Repo: https://github.com/ivan-hristev99/Qoi
